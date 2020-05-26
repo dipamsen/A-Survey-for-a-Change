@@ -1,0 +1,30 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("/ChelseaMarket-Regular.ttf");
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: myFirstFont;
+    background-color: aquamarine;
+  }
+  canvas{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0px;
+    border: 2px solid black;
+  }
+
+  input{
+    font-style: italic;
+  }
+
+  button{
+    font-family: myFirstFont;
+    font-weight: bold;
+  }
+/*
+ .red {
+   color: red;
+ }
